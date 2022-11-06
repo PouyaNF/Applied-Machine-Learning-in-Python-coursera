@@ -1,0 +1,42 @@
+digit dataset
+
+consusion matrix 
+
+Accuracy - percision - recal - F1 
+
+classification_report
+
+Decision functions
+Precision-recall curves
+ROC curves, Area-Under-Curve (AUC)
+
+Multi-class confusion matrix
+Multi-class classification report
+Regression evaluation metrics
+Cross-validation
+Grid search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

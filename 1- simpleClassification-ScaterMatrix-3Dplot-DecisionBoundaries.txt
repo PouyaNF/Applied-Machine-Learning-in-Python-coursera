@@ -1,0 +1,9 @@
+dataset : fruit_data_with_colors
+
+Examining the data : scatter matrix - 3D plot 
+
+ML model : KNN()
+
+Plot the decision boundaries of the k-NN classifier-plot
+How sensitive is k-NN classification accuracy to the choice of the 'k' parameter?-plot
+How sensitive is k-NN classification accuracy to the train/test split proportion?-plot

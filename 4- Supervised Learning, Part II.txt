@@ -1,0 +1,24 @@
+Naive Bayes classifiers
+Random forests
+Gradient boosted decision trees on the fruit dataset
+
+
+Neural networks
+Regularization parameter: alpha
+The effect of different choices of activation function
+Neural networks: Regression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

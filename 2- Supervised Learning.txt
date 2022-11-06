@@ -1,0 +1,55 @@
+dataset : fruit_data_with_colors
+
+MinMax scaler 
+
+KNN()
+plot classses 
+descision boundaries for different k
+
+Regression - KNeighborsRegressor
+Regression model complexity as a function of K
+Linear models for regression
+descision boundaries
+
+Logistic regression on simple synthetic dataset
+Logistic regression regularization: C parameter
+Application to real dataset
+descision boundaries
+
+
+Linear Support Vector Machine
+Multi-class classification with linear models
+Linear Support Vector Machine: C parameter
+Multi-class results on the fruit dataset
+Kernelized Support Vector Machines
+
+Support Vector Machine with RBF kernel: gamma parameter
+Support Vector Machine with RBF kernel: using both C and gamma parameter
+Application of SVMs to a real dataset: unnormalized data
+
+
+Cross-validation
+validation curve
+
+
+decision tree
+Setting max decision tree depth to help avoid overfitting
+Visualizing decision trees
+Feature importance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
